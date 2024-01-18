@@ -1,0 +1,19 @@
+"nom_personne","annee_de_debut","annee_de_fin","fk_organisation","nom_organisation","fk_metier","nom_metier"
+"Anguissola, Anna Maria",1569,1611,6,Famille Anguissola,1,peintre
+"Anguissola, Elena",1550,1585,9,Bottega di Bernardino Gatti,6,nonne
+"Anguissola, Europa",1560,1578,6,Famille Anguissola,1,peintre
+"Anguissola, Lucia",1550,1568,6,Famille Anguissola,1,peintre
+"Anguissola , Sofonisba",1551,1625,9,Bottega di Bernardino Gatti,2,portriatiste 
+"Brusasorzi, Cecilia",1560,1593,10,Bottega di Domenico Brusasorzi,5,minieriste
+"Burlamacchi, Eufrasia",1500,1545,11,Monastero di San Domenico,5,minieriste
+"Burlamacchi, Eufrasia",1500,1548,11,Monastero di San Domenico,6,nonne
+"Criscuolo, Mariangiola",1560,1630,12,Istruzione da Giovanni Filippo Criscuolo,1,peintre
+"Doni, Antonia",1470,1491,15,autodidacte,6,nonne
+"Fontana, Lavinia",1579,1614,13,Bottega Prospero Fontana,2,portriatiste 
+"Longhi, Barbara",1565,1638,15,autodidacte,2,portriatiste 
+"Nelli, Plautilla",1538,1588,15,autodidacte,1,peintre
+"Nelli, Plautilla",1538,1588,,,6,nonne
+"Quistelli, Lucrezia",1576,1594,16,Bottega di Alessandro Allori,1,peintre
+"Robusti, Marietta",1578,1590,17,Allieva del Tintoretto (Jacopo Robusti),2,portriatiste 
+,,,,,,
+"Fetti, Lucrina",,,19,Bottega Pietro Fetti,6,nonne
